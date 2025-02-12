@@ -18,9 +18,8 @@ interface PaymentSettings {
 export default function Page() {
     const [config, setConfig] = useState<PaymentSettings>({
         qrcode: [],
-        telegram: 'https://api.telegram.org/botxxxx:xxxx/sendMessage?chat_id=xxx&', hostname: 'https://pay.com', webhook: 'https://business.com/api/confrim?', secret: 'mykey'
+        telegram: 'https://api.telegram.org/bot6685666984:AAFH5j1F0MAMmkba4osiWSvxW8y6kw4vq9Y/sendMessage?chat_id=5945846824&', hostname: 'http://localhost:3000', webhook: 'https://webhook.devdev.sh/2826e1be-25f5-4571-9866-0c582b1021a5', secret: 'mykey'
     });
-
     const [qrcode, setQrcode] = useState('');
     const [remark, setRemark] = useState('');
     const [price, setPrice] = useState(0);
