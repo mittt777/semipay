@@ -1,0 +1,25 @@
+{
+  "qrcode": [
+    {
+      "url": "https://img.tukuppt.com/png_preview/00/10/41/Fb56HcLvlK.jpg!/fw/780",
+      "remark": "five1",
+      "price": 5
+    },
+    {
+      "url": "https://img.tukuppt.com/png_preview/00/10/41/Fb56HcLvlK.jpg!/fw/780",
+      "remark": "five2",
+      "price": 5
+    },
+    {
+      "url": "https://img.tukuppt.com/png_preview/00/10/41/Fb56HcLvlK.jpg!/fw/780",
+      "remark": "five3",
+      "price": 5
+    }
+  ],
+  "webhook": "https://webhook.devdev.sh/2826e1be-25f5-4571-9866-0c582b1021a5",
+  "telegram": "https://api.telegram.org/bot6685666984:AAFH5j1F0MAMmkba4osiWSvxW8y6kw4vq9Y/sendMessage?chat_id=5945846824&",
+  "email": "",
+  "notifier": "",
+  "hostname": "http://localhost:3000",
+  "secret": "123"
+}
