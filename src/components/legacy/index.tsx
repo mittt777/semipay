@@ -1,4 +1,4 @@
-import { Inter } from 'next/font/google'
+//import { Inter } from 'next/font/google'
 import { Demo } from "./demo";
 import { Intro } from "./intro";
 import { Foot } from "./foot";
