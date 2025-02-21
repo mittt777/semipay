@@ -17,9 +17,10 @@
     }
   ],
   "webhook": "https://webhook.devdev.sh/2826e1be-25f5-4571-9866-0c582b1021a5",
-  "telegram": "https://api.telegram.org/bot6685666984:AAFH5j1F0MAMmkba4osiWSvxW8y6kw4vq9Y/sendMessage?chat_id=5945846824&",
-  "email": "",
-  "notifier": "",
+  "telegram": "https://webhook.devdev.sh/bdc8db3f-ce57-4249-8450-9dcd4e58e731?chat_id=5945846824&",
+  "telegramm": "https://api.telegram.org/bot6685666984:AAFH5j1F0MAMmkba4osiWSvxW8y6kw4vq9Y/sendMessage?chat_id=5945846824&",
+  "email": "mit777@sina.com",
+  "notifier": "notifier888",
   "hostname": "http://localhost:3000",
   "secret": "123"
 }
